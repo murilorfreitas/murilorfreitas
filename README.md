@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**murilorfreitas/murilorfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, devs! Bem vindos ao meu Github!
 
-Here are some ideas to get you started:
+[![LinkedIn](https://www.linkedin.com/in/murilo-ribeiro-de-freitas-715b27281/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim / About me
+
+🇧🇷 **Português**
+
+🎓 Estudante de Engenharia da Computação  
+💻 Focado em desenvolvimento backend, APIs REST e integração de sistemas  
+🏦 Interesse nas áreas de fintech, investimentos e soluções escaláveis  
+🛠️ Conhecimentos em **Java, Python, JavaScript, SQL, HTML/CSS e C#**  
+🧠 Estudando arquitetura de software, boas práticas e testes  
+📊 Familiarizado com soluções de Contact Center (Avaya/Five9), adquiridas na atuação como estagiário técnico  
+📚 Aprimorando meus conhecimentos em APIs, HTTP, JSON e segurança de aplicações  
+🌐 Em constante evolução e aberto a colaborações!
+
+---
+
+🇺🇸 **English (short version)**
+
+I'm a Computer Engineering student passionate about backend development, RESTful APIs and the fintech industry. Currently working with voice-based customer experience solutions using Avaya and Five9 technologies. Always learning and looking to grow in software architecture and real-world application development.
+
+---
+
+## 🚀 Tecnologias que uso
+
+- **Linguagens:** Java, Python, NodeJS, C# 
+- **Web:** HTML, CSS, APIs REST, JSON  
+- **Banco de Dados:** MySQL, MariaDB  
+- **Ferramentas:** Git, GitHub, Postman, MySQL Workbench  
+- **Outros:** Docker (inicial), Spring Boot (estudando), Debian/Linux
+
+---
+
+📫 Entre em contato:  
+[LinkedIn]((https://www.linkedin.com/in/murilo-ribeiro-de-freitas-715b27281/)) | [Email](murilorfreitas@gmail.com)
